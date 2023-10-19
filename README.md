@@ -17,4 +17,4 @@ form bölümü: Arama kutusunu oluşturur.
 
 footer bölümü: Sayfanın alt kısmında yer alan altbilgiyi oluşturur. Bu kısımda Advertising, Business, About, Privacy, Terms ve Settings bağlantıları bulunur.
 
-CSS kodu, sayfanın görünümünü düzenler ve medya sorguları kullanarak sayfanın farklı ekran boyutlarına uyum sağlamasını sağlar. Örneğin, ekranın genişliği 565 piksel veya daha az olduğunda bazı öğeler gizlenir veya yeniden düzenlenir.
+CSS kodu, sayfanın görünümünü düzenler ve medya sorguları kullanarak sayfanın farklı ekran boyutlarına uyum sağlamasını sağlar. Örneğin, ekranın genişliği 565 piksel veya daha az olduğunda bazı öğeler gizlenir veya yeniden düzenlenir.ir.
